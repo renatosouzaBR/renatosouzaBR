@@ -6,7 +6,7 @@
 
   <p>Estou atuando como lider de projetos e lider de time, onde desenvolvemos software com foco em transporte de cargas. Além de gerenciar, planejar, busco no desenvolvimento do dia a dia entender e estudar melhorias para o time e para os projetos.</p>
 
-  <p>O aprendizado é constante, e por isso não podemos para de aprender!<p/>
+  <p>O aprendizado é constante, e por isso não podemos parar de aprender!<p/>
   <p>Se eu puder te ajudar ou contribuir de alguma forma nessa estrada da tecnologia, por favor, não hesite em entrar em contato.<p/>
 
 <a href="https://www.linkedin.com/in/renato-alves-de-souza-33422772/" align="center" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
