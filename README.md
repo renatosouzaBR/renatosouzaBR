@@ -9,7 +9,7 @@
   <p>O aprendizado é constante, e por isso não podemos parar de aprender!<p/>
   <p>Se eu puder te ajudar ou contribuir de alguma forma nessa estrada da tecnologia, por favor, não hesite em entrar em contato.<p/>
 
-<a href="linkedin.com/in/renato-souza-33422772" align="center" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/renato-souza-33422772/" align="center" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 </div>
 
