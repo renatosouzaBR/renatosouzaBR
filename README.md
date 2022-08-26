@@ -1,6 +1,6 @@
 <div><br>
   <h1>Renato Souza</h1>
-  <h3>Lider na @Softcenter</h2>
+  <h3>FullStack developer</h2>
   
   <p>Apaixonado pela stack JavaScript e por seu eco sistema de frameworks web, mobile</p>
 
